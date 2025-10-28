@@ -198,11 +198,3 @@ Henrique Eduardo da Maia Farias
 <div align="center">
 ⭐ Se este projeto foi útil, deixe uma estrela no repositório!
 </div>   - Marque a opção "Add Python to PATH"
-
-2. **Instale o XAMPP**
-   - Download: https://www.apachefriends.org/pt_br/index.html
-   - Siga o instalador padrão
-
-3. **Instale as dependências**
-   ```bash
-   pip install mysql-connector-python

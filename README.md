@@ -196,4 +196,4 @@ Henrique Eduardo da Maia Farias
 
 <div align="center">
 ⭐ Se este projeto foi útil, deixe uma estrela no repositório!
-</div>   - Marque a opção "Add Python to PATH"
+</div>   

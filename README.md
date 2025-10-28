@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 ![XAMPP](https://img.shields.io/badge/XAMPP-Server-green)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📋 Sobre o Projeto
 
